@@ -3,7 +3,7 @@
 <h1 align="center">OO Desing </h1>
 
 <p align="center">
-asd
+A command-line tool written in Java to calculate statistical metrics from a set of numbers in a file.
 </p>
 
 </div>
